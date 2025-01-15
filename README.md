@@ -11,7 +11,6 @@ I used WebAssembly to integrate these C++ projects into fully-functional web app
 - [**Strictly**](https://github.com/peterchinman/strictly), a rhyme & meter checker
 - [**lighght**](https://github.com/peterchinman/lighght), a silent letter detector
 
-
 I like building for the web. I think WASM is exciting. I like designing interfaces. I think Figma is a beautiful tool. I feel as at home in C++ as I do in CSS.
 
 <!--
